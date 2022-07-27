@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Timmyの自留地</title>
+  
+  <subtitle>Fighting for Love</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-07-27T09:18:48.098Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Timmy(TimFang4162)</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About</title>
+    <link href="http://example.com/2022/07/27/about/"/>
+    <id>http://example.com/2022/07/27/about/</id>
+    <published>2022-07-27T08:53:01.000Z</published>
+    <updated>2022-07-27T09:18:48.098Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>你掀起山河奔向我，踏尽星粒来访我。</p></blockquote><p>Well, 欢迎光临。<br>高中生， 会写代码， 半个全栈， 一事无成。</p><p><strong>Tags</strong></p><ul><li>成绩平平</li><li>会一些乱七八糟的语言， 有 Vue, JavaScript, Python, etc.</li><li>VSCode党， 当然更多时候是Vim</li><li><del>主业写Bug, 副业Debug</del></li><li>会一点平面设计， 常备Adobe全家桶, <del>虽然会用的没几个</del></li><li>爱好摄影， 富士党</li><li>会折腾Arduino， 买了理财产品<del>(树莓派)</del></li><li><del>（也许）</del>理论型飞手， 至今没有实践过</li></ul><p><strong>Donate</strong></p><p>如果你喜欢我<del>的项目</del>， 请支持我。</p><p><a href="https://afdian.net/@timfang4162">爱发电</a></p><p><strong>Contact</strong></p><ul><li><a href="https://github.com/Timfang4162">Github</a></li><li><a href="mailto:timfang114514@gmail.com">Email</a></li><li><a href="https://t.me/TimFang4162">Telegram</a></li><li>QQ 1585972840</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;你掀起山河奔向我，踏尽星粒来访我。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Well, 欢迎光临。&lt;br&gt;高中生， 会写代码， 半个全栈， 一事无成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;成绩平平&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
