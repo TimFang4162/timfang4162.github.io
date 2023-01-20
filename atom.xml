@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-28T02:20:06.204Z</updated>
+  <updated>2023-01-20T08:42:13.586Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>星轨摄影指北</title>
+    <link href="http://example.com/2023/01/20/Guide-to-Star-trail-photography/"/>
+    <id>http://example.com/2023/01/20/Guide-to-Star-trail-photography/</id>
+    <published>2023-01-20T07:37:50.000Z</published>
+    <updated>2023-01-20T08:42:13.586Z</updated>
+    
+    <content type="html"><![CDATA[<p>话不多说先放成果图(<a href="StarStaX_IMG_20230119_200407-IMG_20230119_202953_lighten_final_result_no_compress.jpg">原图</a>)  </p><img src="/2023/01/20/Guide-to-Star-trail-photography/StarStaX_IMG_20230119_200407-IMG_20230119_202953_lighten_final_result.jpg" class="" title="成果图_压缩后"><p>使用手机拍摄，45张长曝光堆栈，单张曝光时间30s。<br>拍摄地光污染2级。</p><h2 id="Turorial"><a href="#Turorial" class="headerlink" title="Turorial"></a>Turorial</h2><h3 id="0x00-Requirements"><a href="#0x00-Requirements" class="headerlink" title="0x00 Requirements"></a>0x00 Requirements</h3><p>你需要：  </p><ul><li>一个能修改曝光时间的摄影器材，手机或相机均可</li><li>三脚架(没有的话可以找一个能固定住相机的东西 <del>比如一叠硬币</del>)</li><li>电动快门线&#x2F;耳机线&#x2F;手*</li></ul><p>*由于我这里条件很简陋，我采用将手机投屏到电脑，由Power Automate控制定时点击快门按钮(<del>绝了</del>)</p><h3 id="0x01-Planning"><a href="#0x01-Planning" class="headerlink" title="0x01 Planning"></a>0x01 Planning</h3><p>在开始之前，你需要计划拍摄目标。<br>使用<code>天文通小程序/天文通APP</code>查看当地的光污染情况，过高的光污染等级会影响可见星数。<br>使用天文通APP的<code>星图</code>功能决定拍摄角度，使用指北针寻找星空旋转中心（北极星）。离旋转中心越远，拍摄的时间越短。</p><h3 id="0x02-Shot"><a href="#0x02-Shot" class="headerlink" title="0x02 Shot"></a>0x02 Shot</h3><p>如果是手机，请打开专业模式。<br>光圈选择最小，ISO设置较低（一般800左右，我使用50，根据情况调整），曝光时间设置最大，手动对焦到无限远，使用RAW格式拍摄(预留后期调整空间)。<br>相机用户请使用快门线控制（如果内置间隔拍摄更好），间隔一定时间(&gt;&#x3D;曝光时间，如果两张照片间时间过长会导致星轨不连续)按一次快门。<br>手机用户可以用耳机线&#x2F;手等控制快门，也可以使用scrcpy等软件将屏幕投到电脑上，用RPA软件控制快门。</p><table><thead><tr><th>快门线</th><th>RPA控制快门</th></tr></thead><tbody><tr><td><img src="/2023/01/20/Guide-to-Star-trail-photography/R-C.jpg" class=""></td><td><img src="/2023/01/20/Guide-to-Star-trail-photography/rpa.png" class=""></td></tr></tbody></table><p>因为要长时间拍摄，请注意设备温度及电量。可以找个舒服的椅子坐着，冬天请做好保暖。</p><h3 id="0x03-Process"><a href="#0x03-Process" class="headerlink" title="0x03 Process"></a>0x03 Process</h3><p>可以使用Photoshop的图层功能堆栈照片(图层混合模式为变亮)，但使用StarStaX软件会更加方便。</p><blockquote><p><strong>Advertisement</strong><br>天文通公众号发送星轨获取下载链接。<br>这是一个小应用程序，让你选择多个图像，然后合并成一个单一的星轨图像。</p></blockquote><p>也可以堆栈完后修个图调个色啥的，比如图中我把最后两颗星星提亮了一点，更有动态感。</p><h3 id="0x04-Finish"><a href="#0x04-Finish" class="headerlink" title="0x04 Finish"></a>0x04 Finish</h3><p>最后，你会得到一张漂亮的星轨照片。配文发朋友圈是最棒不过的了。<br>祝各位追星愉快 :D</p><h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ol><li>“超简单6步！手把手教你拍星轨，1分钟出图（StarStaX） | 天文通.” <a href="https://laysky.com/guide/how-to-create-star-trail-astrophotos.html#%E5%85%AD%E6%AD%A5%E5%A4%A7%E6%B3%95">https://laysky.com/guide/how-to-create-star-trail-astrophotos.html#%E5%85%AD%E6%AD%A5%E5%A4%A7%E6%B3%95</a></li><li>“天文通 - 全球光污染地图.” <a href="https://darkmap.cn/">https://darkmap.cn/</a></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;话不多说先放成果图(&lt;a href=&quot;StarStaX_IMG_20230119_200407-IMG_20230119_202953_lighten_final_result_no_compress.jpg&quot;&gt;原图&lt;/a&gt;)  &lt;/p&gt;
+&lt;img src=&quot;/2023/0</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>About</title>
     <link href="http://example.com/2022/07/27/about/"/>
     <id>http://example.com/2022/07/27/about/</id>
     <published>2022-07-27T08:53:01.000Z</published>
-    <updated>2022-07-28T02:20:06.204Z</updated>
+    <updated>2023-01-20T08:42:13.730Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>你掀起山河奔向我，踏尽星粒来访我。</p></blockquote><p>Well, 欢迎光临。<br>高中生， 会写代码， 半个全栈， 一事无成。</p><h2 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h2><ul><li>成绩平平</li><li>会一些乱七八糟的语言， 有 Vue, JavaScript, Python, etc.</li><li>VSCode党， 当然更多时候是Vim</li><li><del>主业写Bug, 副业Debug</del></li><li>会一点平面设计， 常备Adobe全家桶, <del>虽然会用的没几个</del></li><li>爱好摄影， 富士党</li><li>会折腾Arduino， 买了理财产品<del>(树莓派)</del></li><li><del>（也许）</del>理论型飞手， 至今没有实践过</li></ul><h2 id="Donate"><a href="#Donate" class="headerlink" title="Donate"></a>Donate</h2><p>如果你喜欢我<del>的项目</del>， 请支持我。</p><p><a href="https://afdian.net/@timfang4162">爱发电</a></p><h2 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h2><ul><li><a href="https://github.com/Timfang4162">Github</a></li><li><a href="mailto:timfang114514@gmail.com">Email</a></li><li><a href="https://t.me/TimFang4162">Telegram</a></li><li>QQ 1585972840</li></ul>]]></content>
     
