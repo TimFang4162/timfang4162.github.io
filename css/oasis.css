@@ -157,15 +157,8 @@ aside li {
   width: 100%;
 }
 #post table thead tr {
-  background-color: #ccc;
-  color: #fff;
   text-align: left;
-}
-#post table tbody tr:nth-of-type(even) {
-  background-color: #f3f3f3;
-}
-#post table tbody tr:last-of-type {
-  border-bottom: 1px solid #f3f3f3;
+  font-weight: bold;
 }
 #post table th,
 #post table td {
